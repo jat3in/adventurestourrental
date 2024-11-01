@@ -51,13 +51,13 @@ const Navbar = () => {
             AdventuresRentalTour
           </Link>
         </div>
-        <div className="flex h-full items-center justify-center flex-grow">
+{/*         <div className="flex h-full items-center justify-center flex-grow">
           <ul className="flex justify-center w-full">
             <li className="text-[#13253F] font-medium text-center w-full">
               <Link to="/">Home</Link>
             </li>
           </ul>
-        </div>
+        </div> */}
         <div className="flex h-full items-center justify-end flex-grow">
           <div className="flex items-center gap-x-1">
             <FaPhone className="text-[#13253F]" />
